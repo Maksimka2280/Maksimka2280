@@ -6,12 +6,9 @@
 
 💼 Looking forward to further growth in the field of web development and pursuing a career in the dynamic realm of IT.
 
-
+---
 
 ### Мои навыки:
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
-
-- HTML: <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" width="20" height="20"> HTML
-- CSS: <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" width="20" height="20"> CSS
-- JavaScript: <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" width="20" height="20"> JavaScript
+![HTML](link_to_html_icon)
+![CSS](link_to_css_icon)
+![JavaScript](link_to_js_icon)
