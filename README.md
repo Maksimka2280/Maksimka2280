@@ -8,7 +8,8 @@
 
 ---
 
-### Мои навыки:
-![HTML](link_to_html_icon)
-![CSS](link_to_css_icon)
-![JavaScript](link_to_js_icon)
+
+
+- HTML: ![HTML](https://skillicons.dev/static/icons/html.svg)
+- CSS: ![CSS](https://skillicons.dev/static/icons/css.svg)
+- JavaScript: ![JavaScript](https://skillicons.dev/static/icons/javascript.svg)
