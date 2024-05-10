@@ -7,9 +7,11 @@
 💼 Looking forward to further growth in the field of web development and pursuing a career in the dynamic realm of IT.
 
 ---
-
+My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,figma,git,github,gmail,instagram,linkedin,vscode,webpack)](https://skillicons.dev)
 
 ---
-[![tools](https://skillicons.dev/icons?i=js,,discord,figma,git,github,gmail,vscode)](https://skillicons.dev)
+
+Tools
+[![tools](https://skillicons.dev/icons?i=,discord,figma,git,github,gmail,vscode)](https://skillicons.dev)
