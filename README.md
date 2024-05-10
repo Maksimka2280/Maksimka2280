@@ -9,4 +9,4 @@
 ---
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,figma,git,github,gmail,instagram,linkedin,vscode,webpack)](https://skillicons.dev)
