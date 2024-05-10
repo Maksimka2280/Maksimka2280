@@ -10,6 +10,4 @@
 
 
 
-- HTML: ![HTML](https://skillicons.dev/static/icons/html.svg)
-- CSS: ![CSS](https://skillicons.dev/static/icons/css.svg)
-- JavaScript: ![JavaScript](https://skillicons.dev/static/icons/javascript.svg)
+![HTML](https://skillicons.dev/static/icons/html.svg)
