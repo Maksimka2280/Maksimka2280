@@ -14,4 +14,5 @@ My Skills
 ---
 Tools
 
-[![tools](https://skillicons.dev/icons?i=,discord,figma,git,github,gmail,vscode)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=,windows,discord,figma,git,github,gmail,vscode)](https://skillicons.dev)
+
