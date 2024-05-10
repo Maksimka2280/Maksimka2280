@@ -10,3 +10,6 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,figma,git,github,gmail,instagram,linkedin,vscode,webpack)](https://skillicons.dev)
+
+---
+[![tools](https://skillicons.dev/icons?i=js,,discord,figma,git,github,gmail,vscode)](https://skillicons.dev)
