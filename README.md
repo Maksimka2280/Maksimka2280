@@ -8,6 +8,8 @@
 
 ### Мои навыки:
 
-- HTML: <i class="fab fa-html5"></i>
-- CSS: <i class="fab fa-css3"></i>
-- JavaScript: <i class="fab fa-js"></i>
+### Мои навыки:
+
+- HTML: <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" width="20" height="20"> HTML
+- CSS: <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" width="20" height="20"> CSS
+- JavaScript: <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" width="20" height="20"> JavaScript
