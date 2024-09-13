@@ -9,7 +9,7 @@
 ---
 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,figma,git,github,gmail,instagram,linkedin,vscode,webpack,vue,react,vite,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,react,vite,discord,figma,github,webpack,)](https://skillicons.dev)
 
 ---
 Tools
